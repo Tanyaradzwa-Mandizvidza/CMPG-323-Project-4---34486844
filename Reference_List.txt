@@ -1,0 +1,56 @@
+1.CMPG323 - IT Developments (2023). 14 September weekly virtual class Automation introduction. YouTube. Available at: https://www.youtube.com/watch?v=wi18JuLhZ74 [Accessed 16 Oct. 2023].
+2.CMPG323 - IT Developments (2023). 03 October Project 4 Explained. YouTube. Available at: https://www.youtube.com/watch?v=5s1-p1okZoc [Accessed 16 Oct. 2023].
+3.Uipath.com. (2023). UiPath. [online] Available at: https://cloud.uipath.com/cmpg3wuvyzde/portal_/home [Accessed 16 Oct. 2023].
+4.Uipath.com. (2023). Error page. [online] Available at: https://academy.uipath.com/courses/introduction-to-rpa-and-automation [Accessed 16 Oct. 2023].
+5.Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/ui-automation [Accessed 16 Oct. 2023].
+6.Madalina Boboc (2021). Excel Automation Tutorial - DataTables Automation | UiPath. [online] Uipath.com. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation [Accessed 16 Oct. 2023].
+7.McDaniel, K. (2020). Automation in 2019: The 10 Most Popular RPA & AI Articles in 2019. [online] Uipath.com. Available at: https://www.uipath.com/blog/rpa/top-10-rpa-articles-of-2019 [Accessed 16 Oct. 2023].
+8.Lacity, M. and Willcocks, L.P. (2017). Robotic process automation and risk mitigation: the definitive guide - LSE Research Online. Lse.ac.uk. [online] doi:https://doi.org/Lacity,%20Mary%20and%20Willcocks,%20Leslie%20P.%20ORCID:%200000-0003-2572-9554%20<https://orcid.org/0000-0003-2572-9554>%20%20(2017)%20Robotic%20process%20automation%20and%20risk%20mitigation:%20the%20definitive%20guide.%20%20%20%20%20SB%20Publishing,%20Ashford,%20UK.%20%20ISBN%209780995682030.
+9.Bibleandbookcenter.com. (2018). Read Download Learning Robotic Process Automation PDF – PDF Download. [online] Available at: https://bibleandbookcenter.com/read/learning-robotic-process-automation/ [Accessed 16 Oct. 2023].
+10.Harika Mudiam (2022). How to Connect UiPath Project to GitHub How to Commit and Push changes to GitHub. YouTube. Available at: https://www.youtube.com/watch?v=x8eLpoyB3Uo [Accessed 16 Oct. 2023].
+11.botsDNA (2020). Read Excel Data to UiPath Data Service | Read DataTable from Mobile. YouTube. Available at: https://www.youtube.com/watch?v=9bAkDtgIxWE [Accessed 16 Oct. 2023].
+12.Jensen, A. (2020). How to Connect UiPath Studio with Orchestrator. YouTube. Available at: https://www.youtube.com/watch?v=3EhKhHcvuow [Accessed 16 Oct. 2023].
+13.Automate with Rakesh (2022). How to Get the Excel Application Scope in UiPath? YouTube. Available at: https://www.youtube.com/watch?v=xXlx-gXjwEU&t=52s [Accessed 16 Oct. 2023].
+14.UiPath Community Forum. (2019). Cant publish to Orchestrator. [online] Available at: https://forum.uipath.com/t/cant-publish-to-orchestrator/151818 [Accessed 16 Oct. 2023].
+15.UiPath Community Forum. (2022). Recognize each ui element in chrome and click on it one after the other. [online] Available at: https://forum.uipath.com/t/recognize-each-ui-element-in-chrome-and-click-on-it-one-after-the-other/420992/6 [Accessed 16 Oct. 2023].
+16.Automate with Rakesh (2020). UI Explorer UiPath. YouTube. Available at: https://www.youtube.com/watch?v=gI4PDchl-xA [Accessed 16 Oct. 2023].
+17.UiPath Community Forum. (2020). Element Exists Activity is missing. [online] Available at: https://forum.uipath.com/t/element-exists-activity-is-missing/269288/3 [Accessed 16 Oct. 2023].
+18.UiPath Community Forum. (2019). How to count the repetition of the same image on a website when selectors and accuracy doesn’t work? [online] Available at: https://forum.uipath.com/t/how-to-count-the-repetition-of-the-same-image-on-a-website-when-selectors-and-accuracy-doesnt-work/134461 [Accessed 16 Oct. 2023].
+19.UiPath Community Forum. (2020). Write Cell: The process cannot access the file because it is being used by another process. [online] Available at: https://forum.uipath.com/t/write-cell-the-process-cannot-access-the-file-because-it-is-being-used-by-another-process/212331 [Accessed 16 Oct. 2023].
+20.UiPath Community Forum. (2020). How to assign the output of the response to a variable in ui path. [online] Available at: https://forum.uipath.com/t/how-to-assign-the-output-of-the-response-to-a-variable-in-ui-path/241323/2 [Accessed 16 Oct. 2023].
+21.UiPath Community Forum. (2020). Getting entire row data to new excel sheet. [online] Available at: https://forum.uipath.com/t/getting-entire-row-data-to-new-excel-sheet/196722 [Accessed 16 Oct. 2023].
+22.UiPath Video Tutorials made by Cristian Negulescu. (2023). YouTube. Available at: https://www.youtube.com/c/CristianNegulescu/search [Accessed 16 Oct. 2023].
+23.Uipath.com. (2023). Available at: https://docs.uipath.com/activities/other/latest/workflow/manage-data-tables [Accessed 16 Oct. 2023].
+24.Shaikh, I. (2019). Reading An Excel File In UiPath. [online] C-sharpcorner.com. Available at: https://www.c-sharpcorner.com/article/reading-an-excel-file-in-uipath/ [Accessed 16 Oct. 2023].
+25.Kashyap, R. (2021). SOAIS has a global presence in Chicago, Dallas, Bangalore & Kolkata. [online] SOAIS. Available at: https://www.soais.com/rpa-uipath-best-practices-guidelines/ [Accessed 16 Oct. 2023].
+26.UiPath Community Forum. (2021). How to Convert excel to DataTable in UIPath? [online] Available at: https://forum.uipath.com/t/how-to-convert-excel-to-datatable-in-uipath/321763 [Accessed 16 Oct. 2023].
+27.UiPath Inc (2022). Test Driven Development (TDD) - An Approach to Automation | Community Blog. [online] Uipath.com. Available at: https://www.uipath.com/community-blog/tutorials/understanding-test-driven-development-an-approach-to-automation [Accessed 16 Oct. 2023].
+
+‌
+‌
+‌
+
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
